@@ -71,7 +71,7 @@ body::before {
     padding: 1rem;
 }
 .container__imagen-persona {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     flex-shrink: 1;
 }
