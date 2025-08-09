@@ -1,5 +1,5 @@
-# juego-numero-secreto
-Pequeño juego interactivo hecho con HTML, CSS y JavaScript.
+# Juego: Número Secreto
+Pequeño juego interactivo hecho con **HTML**, **CSS** y **JavaScript**.
 El objetivo es que el usuario adivine un número secreto generado aleatoriamente entre 1 y 10.
 
 **Características:**
